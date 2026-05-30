@@ -39,7 +39,18 @@ Magang-in adalah platform berbasis website yang membantu mahasiswa menemukan pos
                 |-- Dataset: 201 lowongan magang tech Pulau Jawa
 ```
 
-**Deployment:** Docker + Cloudflare Tunnel | **Live:** `https://api.magangin.online/docs`
+**Deployment:** Docker + Cloudflare Tunnel
+
+### Live Demo
+
+| Service | URL |
+|---------|-----|
+| Demo Api| [demo.magangin.online](https://demo.magangin.online/) |
+| API Service | [api.magangin.online](https://api.magangin.online/) |
+| API Documentation | [api.magangin.online/docs](https://api.magangin.online/docs) |
+| Dashboard (Streamlit) | [magangin.streamlit.app](https://magangin.streamlit.app/) |
+| Frontend Web | *coming soon* |
+| Backend Web | *coming soon* |
 
 ---
 
@@ -135,23 +146,17 @@ cd backend-magang-in && npm install && npm run dev
 
 **ID Tim Capstone:** CC26-PSU387
 
-| Nama | Role | Tanggung Jawab |
-|------|------|----------------|
-| TBD | AI Engineer | Siamese Neural Network, skill matching, API service |
-| TBD | Data Scientist | Scraping, preprocessing, EDA, skill taxonomy |
-| TBD | Full Stack Developer | Backend, frontend, deployment |
+| ID | Nama | Role | Universitas |
+|----|------|------|-------------|
+| CACC183D6Y2628 | Rangga Pasha Cucu Wibisono | AI Engineer | Universitas Amikom Yogyakarta |
+| CACC179D6Y2220 | Aditya Bintang Rianda Syahputra | AI Engineer | Universitas Ahmad Dahlan |
+| CDCC183D6Y2507 | Ferdy Andhika Tangkeallo | Data Scientist | Universitas Amikom Yogyakarta |
+| CDCC208D6X1228 | Ferrari Meilani | Data Scientist | Universitas Hasanuddin |
+| CFCC183D6Y1327 | Dava Rias Putratama | Full Stack Developer | Universitas Amikom Yogyakarta |
+| CFCC183D6Y0426 | Rafly Hermansyah | Full Stack Developer | Universitas Amikom Yogyakarta |
 
 ---
 
-## Referensi
-
-- ManpowerGroup Talent Shortage Survey
-- Media Indonesia — Kekurangan talenta digital Indonesia
-- JurnalPost — Qualification Mismatch di Indonesia
-- ILO — Skills Mismatch Study
-- Kaggle — Job Descriptions 2025: Tech & Non-Tech Roles
-
----
 
 ## Lisensi
 

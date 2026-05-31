@@ -49,8 +49,8 @@ Magang-in adalah platform berbasis website yang membantu mahasiswa menemukan pos
 | API Service | [api.magangin.online](https://api.magangin.online/) |
 | API Documentation | [api.magangin.online/docs](https://api.magangin.online/docs) |
 | Dashboard (Streamlit) | [magangin.streamlit.app](https://magangin.streamlit.app/) |
-| Frontend Web | *coming soon* |
-| Backend Web | *coming soon* |
+| Frontend Web | [magangin-ten.vercel.app](https://magangin-ten.vercel.app/)|
+| Backend Web | [rest-api-magangin.vercel.app](https://rest-api-magangin.vercel.app/) |
 
 ---
 
